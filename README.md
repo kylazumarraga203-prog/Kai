@@ -21,6 +21,6 @@ To improve my coding and design skills every day.
 
 # Hobbies 
 - Playing volleyball 
-- singing 
-- cooking 
-
+- Singing 
+- Cooking 
+- Dancing 
