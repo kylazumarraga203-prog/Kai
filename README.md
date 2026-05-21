@@ -12,7 +12,7 @@ Hi! I'm Kyla Zumarraga, an aspiring web developer who enjoys creating simple and
 - Student Task Manager UI
 - Portfolio Website
 
-## Goal
+## Goals
 To improve my coding and design skills every day.
 
 <details>
