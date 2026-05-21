@@ -14,7 +14,7 @@ Hi! I'm Kyla Zumarraga, an aspiring web developer who enjoys creating simple and
 - Portfolio Website
 
 ## Goal
-To become a successful full-stack web developer someday.
+To improve my coding and design skills every day.
 
 <details>
 <summary><b>view my another details</summary>
