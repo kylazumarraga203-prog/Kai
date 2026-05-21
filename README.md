@@ -16,3 +16,11 @@ Hi! I'm Kyla Zumarraga, an aspiring web developer who enjoys creating simple and
 ## Goal
 To become a successful full-stack web developer someday.
 
+<details>
+<summary><b>view my another details</summary>
+
+# Hobbies 
+- Playing volleyball 
+- singing 
+- cooking 
+
