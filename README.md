@@ -5,7 +5,6 @@ Hi! I'm Kyla Zumarraga, an aspiring web developer who enjoys creating simple and
 
 ## 📍Skills
 - HTML
-- GitHub
 - UI/UX Design
 
 ## Projects
