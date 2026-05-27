@@ -1,11 +1,26 @@
 # My Portfolio
 
-## 📁About Myself
-Hi! I'm Kyla Zumarraga, an aspiring web developer who enjoys creating simple and clean website designs. I’m currently learning HTML, and UI/UX design.
 
-## 📍Skills
+## 👤 Personal Information
+
+Name: Kyla Zumarraga
+Course: BSIT (Bachelor of Science in Information Technology)
+Year Level: First Year
+Location: Imus
+
+## 💻 Skills & Technologies
 - HTML
 - UI/UX Design
+- GitHub
+
+
+## 📂 Projects & Contributions
+- Created a simple portfolio website
+- Developed basic Python programs
+- Participated in group system and documentation projects
+
+## 📁About Myself
+Hi! I'm Kyla Zumarraga, an aspiring web developer who enjoys creating simple and clean website designs. I’m currently learning HTML, and UI/UX design.
 
 ## Projects
 - Restaurant Prototype Design
@@ -19,7 +34,6 @@ To improve my coding and design skills every day.
 <summary><b>view my another details</summary>
 
 # Hobbies 
-- Playing volleyball 
 - Singing 
 - Cooking 
 - Dancing 
