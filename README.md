@@ -3,10 +3,10 @@
 
 ## 👤 Personal Information
 
-Name: Kyla Zumarraga
-Course: BSIT (Bachelor of Science in Information Technology)
-Year Level: First Year
-Location: Imus
+- Name: Kyla Zumarraga
+- Course: BSIT (Bachelor of Science in Information Technology)
+- Year Level: First Year
+
 
 ## 💻 Skills & Technologies
 - HTML
